@@ -1,3 +1,3 @@
 # medical_data_analysis
 Full name: Medical data analysis software
-This software is used to traditional statistical analysis, data mining, machine learning, deep learning, Bayesian statistics, decision analysis and data modelling for medicine based on Python.
+This software is used to traditional statistical analysis, data mining, machine learning, deep learning, Bayesian statistics, decision analysis and mathematical modelling for medicine based on Python.
